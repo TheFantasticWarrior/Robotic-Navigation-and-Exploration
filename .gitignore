@@ -1,0 +1,14 @@
+*.pdf
+*.zip
+pros_twin_unity_win_V4.1
+images
+*.pt
+HW3/F54116205
+HW4/runs
+HW4/seg
+HW4/obj
+proly
+*.pyc
+*.csv
+*.ppt*
+*tensorboard*

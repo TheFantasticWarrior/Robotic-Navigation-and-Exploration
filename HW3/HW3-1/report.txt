@@ -1,0 +1,1 @@
+Used shared weight for observation of same type, higher learning rate for small model, would reach higher reward if using lr decay

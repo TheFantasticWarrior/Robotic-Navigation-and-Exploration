@@ -1,0 +1,1 @@
+After implementing rewards and debugging it just worked

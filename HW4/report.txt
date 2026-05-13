@@ -1,0 +1,20 @@
+
+
+Two Roboflow project links
+    https://universe.roboflow.com/zbdbfdgxzhbgdxhdxghzzfdfhg/ryxsjxuktmxtkud
+    https://universe.roboflow.com/zbdbfdgxzhbgdxhdxghzzfdfhg/kutdjynfgxb-ii68rutjdhnf
+
+Dataset configuration
+    43 of images
+    object categories bear/knob obj, road/bridge seg
+    train/test split 70/20/10 obj, 80/20 seg,
+    augmentation setting none
+
+YOLO training configuration
+    yolo26n, yolo26n-seg, epochs=100,batch=8
+
+Description of dataset diversity
+    includes different objects from different angles for obj(see ./images/obj), includes below/ascend/(on top)/descend of bridge for seg(see ./images/seg)
+
+Description of your navigation strategy in the final project
+not yet planned
